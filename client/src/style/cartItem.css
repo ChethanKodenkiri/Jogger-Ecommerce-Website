@@ -1,0 +1,27 @@
+/* CartItem.css */
+
+.cart-item {
+    display: flex; 
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .cart-item img {
+    max-width: 150px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .cart-item h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+  }
+  
+  .cart-item p {
+    font-size: 14px;
+    font-weight: 300;
+    margin: 5px 0 0;
+  }
+  
